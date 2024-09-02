@@ -1,4 +1,4 @@
-from operacoes import 
+from operacoes import *
 from associacoes import *
 
 # Bloco de Teste
